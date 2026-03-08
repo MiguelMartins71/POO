@@ -1,0 +1,7 @@
+C:\Users\migue\OneDrive\Documentos\Csharp\ExercicioSalario\bin\Debug\ExercicioSalario.exe.config
+C:\Users\migue\OneDrive\Documentos\Csharp\ExercicioSalario\bin\Debug\ExercicioSalario.exe
+C:\Users\migue\OneDrive\Documentos\Csharp\ExercicioSalario\bin\Debug\ExercicioSalario.pdb
+C:\Users\migue\OneDrive\Documentos\Csharp\ExercicioSalario\obj\Debug\ExercicioSalario.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Csharp\ExercicioSalario\obj\Debug\ExercicioSalario.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Csharp\ExercicioSalario\obj\Debug\ExercicioSalario.exe
+C:\Users\migue\OneDrive\Documentos\Csharp\ExercicioSalario\obj\Debug\ExercicioSalario.pdb

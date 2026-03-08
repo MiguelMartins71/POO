@@ -1,0 +1,7 @@
+C:\Users\migue\OneDrive\Documentos\Csharp\ExercicioIdade\bin\Debug\ExercicioIdade.exe.config
+C:\Users\migue\OneDrive\Documentos\Csharp\ExercicioIdade\bin\Debug\ExercicioIdade.exe
+C:\Users\migue\OneDrive\Documentos\Csharp\ExercicioIdade\bin\Debug\ExercicioIdade.pdb
+C:\Users\migue\OneDrive\Documentos\Csharp\ExercicioIdade\obj\Debug\ExercicioIdade.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Csharp\ExercicioIdade\obj\Debug\ExercicioIdade.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Csharp\ExercicioIdade\obj\Debug\ExercicioIdade.exe
+C:\Users\migue\OneDrive\Documentos\Csharp\ExercicioIdade\obj\Debug\ExercicioIdade.pdb

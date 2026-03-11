@@ -1,0 +1,7 @@
+C:\Users\migue\OneDrive\Documentos\Csharp\MedidasTriangulo\bin\Debug\MedidasTriangulo.exe.config
+C:\Users\migue\OneDrive\Documentos\Csharp\MedidasTriangulo\bin\Debug\MedidasTriangulo.exe
+C:\Users\migue\OneDrive\Documentos\Csharp\MedidasTriangulo\bin\Debug\MedidasTriangulo.pdb
+C:\Users\migue\OneDrive\Documentos\Csharp\MedidasTriangulo\obj\Debug\MedidasTriangulo.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Csharp\MedidasTriangulo\obj\Debug\MedidasTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Csharp\MedidasTriangulo\obj\Debug\MedidasTriangulo.exe
+C:\Users\migue\OneDrive\Documentos\Csharp\MedidasTriangulo\obj\Debug\MedidasTriangulo.pdb

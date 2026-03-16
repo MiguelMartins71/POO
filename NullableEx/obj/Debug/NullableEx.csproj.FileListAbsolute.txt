@@ -1,0 +1,7 @@
+C:\Users\migue\OneDrive\Documentos\Csharp\NullableEx\bin\Debug\NullableEx.exe.config
+C:\Users\migue\OneDrive\Documentos\Csharp\NullableEx\bin\Debug\NullableEx.exe
+C:\Users\migue\OneDrive\Documentos\Csharp\NullableEx\bin\Debug\NullableEx.pdb
+C:\Users\migue\OneDrive\Documentos\Csharp\NullableEx\obj\Debug\NullableEx.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Csharp\NullableEx\obj\Debug\NullableEx.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Csharp\NullableEx\obj\Debug\NullableEx.exe
+C:\Users\migue\OneDrive\Documentos\Csharp\NullableEx\obj\Debug\NullableEx.pdb

@@ -1,0 +1,7 @@
+C:\Users\migue\OneDrive\Documentos\Csharp\ForeachSX\bin\Debug\ForeachSX.exe.config
+C:\Users\migue\OneDrive\Documentos\Csharp\ForeachSX\bin\Debug\ForeachSX.exe
+C:\Users\migue\OneDrive\Documentos\Csharp\ForeachSX\bin\Debug\ForeachSX.pdb
+C:\Users\migue\OneDrive\Documentos\Csharp\ForeachSX\obj\Debug\ForeachSX.csproj.AssemblyReference.cache
+C:\Users\migue\OneDrive\Documentos\Csharp\ForeachSX\obj\Debug\ForeachSX.csproj.CoreCompileInputs.cache
+C:\Users\migue\OneDrive\Documentos\Csharp\ForeachSX\obj\Debug\ForeachSX.exe
+C:\Users\migue\OneDrive\Documentos\Csharp\ForeachSX\obj\Debug\ForeachSX.pdb
